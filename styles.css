@@ -1,0 +1,101 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f1f1f1;
+    color: #333;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  
+  h1, h2, h3 {
+    color: #555;
+  }
+  
+  p {
+    line-height: 1.5;
+  }
+  
+  /* Estilos de los botones */
+  .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+  }
+  
+  .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+  }
+  
+  .btn-success {
+    background-color: #28a745;
+    border-color: #28a745;
+  }
+  
+  .btn-success:hover {
+    background-color: #1a682e;
+    border-color: #1a682e;
+  }
+  
+  .btn-danger {
+    background-color: #dc3545;
+    border-color: #dc3545;
+  }
+  
+  .btn-danger:hover {
+    background-color: #a71d29;
+    border-color: #a71d29;
+  }
+  
+  /* Estilos de las alertas */
+  .alert {
+    border-radius: 0;
+  }
+  
+  .alert-primary {
+    background-color: #d1e6f9;
+    border-color: #bee3f8;
+    color: #004085;
+  }
+  
+  .alert-success {
+    background-color: #d4edda;
+    border-color: #c3e6cb;
+    color: #155724;
+  }
+  
+  .alert-danger {
+    background-color: #f8d7da;
+    border-color: #f5c6cb;
+    color: #721c24;
+  }
+  
+  /* Estilos de las tablas */
+  .table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .table th, .table td {
+    padding: 8px;
+    border: 1px solid #dee2e6;
+  }
+  
+  .table th {
+    background-color: #f1f1f1;
+  }
+  
+  /* Estilos del footer */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+  }
+  
+  footer a {
+    color: #fff;
+  }
+  
+  footer a:hover {
+    color: #ccc;
+  }
